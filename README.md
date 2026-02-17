@@ -1,29 +1,34 @@
-# PHP CRUD System with Authentication
+# CRUD System with Authentication (PHP & MySQL)
 
-This is a simple PHP CRUD (Create, Read, Update, Delete) application 
-with user Authentication (Login & Register), using MySQL database.
+A complete web application built using PHP and MySQL that provides user authentication and full CRUD functionality.
 
-## 🧰 Features
-- User registration with hashed password
-- Login system with session protection
-- Protected CRUD page (only accessible after login)
-- Basic MySQL data operations: add, update, delete, display
+## 🚀 Features
+- User Registration & Login
+- Session Management
+- Create, Read, Update, Delete (CRUD)
+- Password Reset
+- Input Validation
+- Secure Password Hashing
+- Responsive UI Design
 
-## 📦 Technologies Used
+## 🛠 Technologies Used
 - PHP
-- MySQL (via phpMyAdmin / XAMPP)
-- HTML & CSS
+- MySQL
+- HTML
+- CSS
+- XAMPP
 
-## ▶️ How to Run Locally
-1. Clone the repository to your local machine.
-2. Put the project folder inside xampp/htdocs/
-3. Create a database in phpMyAdmin.
-4. Import the SQL tables (users and users_login)
-5. Open your browser and go to: http://localhost/crud
+## 📸 Screenshots
+(Add screenshots here)
 
-## 📝 Screenshots
-(You can add screenshots of your app here to show how it looks)
+## ⚙️ How to Run the Project
 
-## 👩‍💻 About
-This project was built by *Esraa*, as part of practicing PHP fundamentals
-and building real-world web applications.
+1. Install XAMPP
+2. Clone the repository
+3. Import the database into phpMyAdmin
+4. Run Apache & MySQL
+5. Open project in browser using localhost
+
+## 👩‍💻 Author
+Esraa Migahed
+GitHub: https://github.com/esraa-dev265
